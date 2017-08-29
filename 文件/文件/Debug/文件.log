@@ -1,0 +1,44 @@
+﻿生成启动时间为 2017/8/25 21:17:49。
+     1>项目“C:\文档\c\文件\文件\文件.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\文件.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "10fopen打开模式.cpp"
+         10fopen打开模式.cpp
+     1>c:\文档\c\文件\文件\10fopen打开模式.cpp(12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>c:\文档\c\文件\文件\10fopen打开模式.cpp(41): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>c:\文档\c\文件\文件\10fopen打开模式.cpp(65): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>c:\文档\c\文件\文件\10fopen打开模式.cpp(70): warning C4305: “初始化”: 从“double”到“float”截断
+     1>c:\文档\c\文件\文件\10fopen打开模式.cpp(70): warning C4305: “初始化”: 从“double”到“float”截断
+     1>c:\文档\c\文件\文件\10fopen打开模式.cpp(70): warning C4305: “初始化”: 从“double”到“float”截断
+     1>c:\文档\c\文件\文件\10fopen打开模式.cpp(70): warning C4305: “初始化”: 从“double”到“float”截断
+     1>c:\文档\c\文件\文件\10fopen打开模式.cpp(95): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>c:\文档\c\文件\文件\10fopen打开模式.cpp(117): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\文档\c\文件\Debug\文件.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\文件.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\文档\c\文件\Debug\文件.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\文档\c\文件\Debug\文件.lib" /MACHINE:X86 "Debug\1输出.obj"
+         "Debug\2文件的输入与输出.obj"
+         Debug\3fflush.obj
+         "Debug\4文件重定向.obj"
+         "Debug\5文件结构体.obj"
+         "Debug\6输出的特例.obj"
+         "Debug\7输入的特例.obj"
+         Debug\8stderrAndstdout.obj
+         Debug\9getwAndputw.obj
+         "Debug\10fopen打开模式.obj"
+         LINK : 没有找到 C:\文档\c\文件\Debug\文件.exe 或上一个增量链接没有生成它；正在执行完全链接
+         文件.vcxproj -> C:\文档\c\文件\Debug\文件.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\文档\c\文件\Debug\文件.exe;#1" /manifest "Debug\文件.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         正在删除文件“Debug\文件.unsuccessfulbuild”。
+         正在对“Debug\文件.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\文档\c\文件\文件\文件.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.86

@@ -1,0 +1,26 @@
+﻿生成启动时间为 2017/8/24 12:28:36。
+     1>项目“C:\文档\c\位运算\位运算\位运算.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\位运算.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "位运算.cpp"
+         位运算.cpp
+     1>c:\文档\c\位运算\位运算\位运算.cpp(7): warning C4305: “初始化”: 从“double”到“float”截断
+     1>c:\文档\c\位运算\位运算\位运算.cpp(67): warning C4309: “初始化”: 截断常量值
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\文档\c\位运算\Debug\位运算.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\位运算.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\文档\c\位运算\Debug\位运算.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\文档\c\位运算\Debug\位运算.lib" /MACHINE:X86 "Debug\printf解析.obj"
+         "Debug\位字段.obj"
+         "Debug\位运算.obj"
+         "Debug\共享内存.obj"
+         LINK : 没有找到 C:\文档\c\位运算\Debug\位运算.exe 或上一个增量链接没有生成它；正在执行完全链接
+         位运算.vcxproj -> C:\文档\c\位运算\Debug\位运算.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\文档\c\位运算\Debug\位运算.exe;#1" /manifest "Debug\位运算.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         正在删除文件“Debug\位运算.unsuccessfulbuild”。
+         正在对“Debug\位运算.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\文档\c\位运算\位运算\位运算.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.78
