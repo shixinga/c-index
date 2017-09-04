@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 
-void main() {
+void main92() {
 	char path[20] = "1_access.cpp";
 	FILE * fp = fopen(path, "r");
 	if(fp == NULL) {

@@ -60,6 +60,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="10修改二进制文件的某个内容.cpp" />
+    <ClCompile Include="11查找某个目录下的某类文件.cpp" />
+    <ClCompile Include="12查找某个目录下包含指定内容的所有文件.cpp" />
     <ClCompile Include="1_access.cpp" />
     <ClCompile Include="2内存块方式读写文件_整数.cpp" />
     <ClCompile Include="3内存块方式读写文件_实数.cpp" />

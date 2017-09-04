@@ -42,5 +42,14 @@
     <ClCompile Include="9文件定位和大小.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="10修改二进制文件的某个内容.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="11查找某个目录下的某类文件.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="12查找某个目录下包含指定内容的所有文件.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
