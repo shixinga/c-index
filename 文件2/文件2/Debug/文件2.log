@@ -1,12 +1,31 @@
-﻿生成启动时间为 2017/9/4 21:52:02。
+﻿生成启动时间为 2017/9/17 10:44:11。
      1>项目“C:\文档\c-index\文件2\文件2\文件2.vcxproj”在节点 2 上(build 个目标)。
      1>InitializeBuildStatus:
          正在创建“Debug\文件2.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
        ClCompile:
-         所有输出均为最新。
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "16windows键盘输入无缓冲模式.cpp"
+         16windows键盘输入无缓冲模式.cpp
        Link:
-         所有输出均为最新。
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\文档\c-index\文件2\Debug\文件2.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\文件2.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\文档\c-index\文件2\Debug\文件2.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\文档\c-index\文件2\Debug\文件2.lib" /MACHINE:X86 "Debug\10修改二进制文件的某个内容.obj"
+         "Debug\11查找某个目录下的某类文件.obj"
+         "Debug\12查找某个目录下包含指定内容的所有文件.obj"
+         "Debug\13文件加解密.obj"
+         "Debug\14检索文件中包含的指定查找内容.obj"
+         "Debug\15遍历文件夹下所有的文件或者指定文件.obj"
+         Debug\1_access.obj
+         "Debug\2内存块方式读写文件_整数.obj"
+         "Debug\3内存块方式读写文件_实数.obj"
+         "Debug\4内存方式读写文件_结构体.obj"
+         "Debug\5读取文件显示在屏幕上.obj"
+         Debug\6fprintfAndfscanf.obj
+         "Debug\7检测文件操作是否出错.obj"
+         "Debug\8处理文件错误.obj"
+         "Debug\9文件定位和大小.obj"
+         "Debug\16windows键盘输入无缓冲模式.obj"
+         LINK : 没有找到 C:\文档\c-index\文件2\Debug\文件2.exe 或上一个增量链接没有生成它；正在执行完全链接
          文件2.vcxproj -> C:\文档\c-index\文件2\Debug\文件2.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\文档\c-index\文件2\Debug\文件2.exe;#1" /manifest "Debug\文件2.exe.intermediate.manifest"
        FinalizeBuildStatus:
          正在删除文件“Debug\文件2.unsuccessfulbuild”。
          正在对“Debug\文件2.lastbuildstate”执行 Touch 任务。
@@ -14,4 +33,4 @@
 
 生成成功。
 
-已用时间 00:00:00.09
+已用时间 00:00:00.61

@@ -51,5 +51,17 @@
     <ClCompile Include="12查找某个目录下包含指定内容的所有文件.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="13文件加解密.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="14检索文件中包含的指定查找内容.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="15遍历文件夹下所有的文件或者指定文件.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="16windows键盘输入无缓冲模式.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

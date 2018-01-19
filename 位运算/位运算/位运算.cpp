@@ -1,8 +1,18 @@
 #include<stdio.h>
 #include<stdlib.h>
 
+void main16() {
 
-void main() {
+	char ch1 = 3;
+	unsigned char ch2 = 255;
+	printf("%d,%d\n",ch2,ch1&ch2);
+	printf("%x\n",&ch2);
+
+
+	system("pause");
+}
+
+void main15() {
 
 	float f = 12.3;
 	unsigned char *p = (unsigned char*)&f;

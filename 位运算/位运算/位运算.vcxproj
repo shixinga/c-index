@@ -64,6 +64,8 @@
     <ClCompile Include="位字段.cpp" />
     <ClCompile Include="位运算.cpp" />
     <ClCompile Include="共享内存.cpp" />
+    <ClCompile Include="打印整数的补码.cpp" />
+    <ClCompile Include="输出浮点数的二进制位.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

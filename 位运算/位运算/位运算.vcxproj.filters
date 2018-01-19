@@ -27,5 +27,11 @@
     <ClCompile Include="共享内存.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="打印整数的补码.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="输出浮点数的二进制位.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

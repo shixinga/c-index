@@ -1,6 +1,14 @@
 #include<stdio.h>
 #include<stdlib.h>
 
+void main18() {
+	char ch = 1;
+	ch = ch << 7;
+	printf("%d\n",ch);
+	
+	system("pause");
+}
+
 void main11() {
 
 	char ch = -3;

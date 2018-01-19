@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 
-void main() {
+void main121() {
 
 	char path[100] = "C:\\Users\\shixing\\Desktop\\1\\";
 	char output[100] = "C:\\Users\\shixing\\Desktop\\output_allfile.txt";
