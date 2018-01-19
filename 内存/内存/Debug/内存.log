@@ -1,0 +1,33 @@
+﻿生成启动时间为 2017/11/25 18:48:19。
+     1>项目“C:\文档\c-index\内存\内存\内存.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Debug\内存.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "9结构体.cpp"
+         9结构体.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\文档\c-index\内存\Debug\内存.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\内存.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\文档\c-index\内存\Debug\内存.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\文档\c-index\内存\Debug\内存.lib" /MACHINE:X86 "Debug\1生命周期.obj"
+         "Debug\2作用域和可见域.obj"
+         "Debug\3跨文件作用域1.obj"
+         "Debug\3跨文件作用域2.obj"
+         "Debug\4寄存器.obj"
+         "Debug\5extern全局声明.obj"
+         Debug\6file1.obj
+         Debug\6file2.obj
+         Debug\7main1.obj
+         Debug\7main2.obj
+         "Debug\8static函数1.obj"
+         "Debug\8static函数2.obj"
+         "Debug\9结构体.obj"
+         "Debug\9结构体2.obj"
+         内存.vcxproj -> C:\文档\c-index\内存\Debug\内存.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\文档\c-index\内存\Debug\内存.exe;#1" /manifest "Debug\内存.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         正在删除文件“Debug\内存.unsuccessfulbuild”。
+         正在对“Debug\内存.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\文档\c-index\内存\内存\内存.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.75

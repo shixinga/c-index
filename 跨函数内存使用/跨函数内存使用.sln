@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "跨函数内存使用", "跨函数内存使用\跨函数内存使用.vcxproj", "{203545F3-C8EF-42B8-A546-0EF04209157F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{203545F3-C8EF-42B8-A546-0EF04209157F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{203545F3-C8EF-42B8-A546-0EF04209157F}.Debug|Win32.Build.0 = Debug|Win32
+		{203545F3-C8EF-42B8-A546-0EF04209157F}.Release|Win32.ActiveCfg = Release|Win32
+		{203545F3-C8EF-42B8-A546-0EF04209157F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
